@@ -2,7 +2,7 @@
 
 #### I'm a Full-Stack Web Developer working in Bandung, Indonesia.
 
-- 🏢 I'm currently working at **Bandung, Indonesia**
+- 🏢 I'm currently working at **Mitrais**
 - ⚙️ I use daily: `.ts`, `.tsx`, `.js`, `.jsx`, `.html`, `.css`
 - 🌱 Learning all about **Web Development**
 - 💬 Ping me about **react**, **javascript**, **aws**
