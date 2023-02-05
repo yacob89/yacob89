@@ -19,4 +19,8 @@
 <code><img height="20" src="https://avatars1.githubusercontent.com/u/13742415?s=200&v=4"></code>
 
 ---
+
+[![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/e8abc7ce-8b7e-4b23-817d-d099fbfe2332/public_url "AWS Certified Developer – Associate")
+
+---
 ⭐️ From [caneco](https://github.com/caneco)
